@@ -1,78 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",TVRI (D*)
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",TVRI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",TVRI World
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",MOJI
 http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/298550.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal", MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg",Magna Channel (D*)
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg",Magna Channel (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg",Magna Channel
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTVLCOPT:https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",ANTV (transcorp)
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",ANTV (transcorp)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",ANTV
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",ANTV
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg", Indosiar
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",TRANS 7 (D)
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",TRANS 7 (D)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTVLCOPT:https://www.transvision.co.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",TransTV HD (Transcorp)
+#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",TransTV HD (Transcorp)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/429LvqR/3.jpg" group-title="lokal",Radio 51 TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/rvGLwtR/3.jpg" group-title="lokal",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg",MNC MUSLIM
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg",MNC MUSLIM
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://melon-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg",MNC Infotainment
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg",MNC Infotainment
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg", Vision Prime
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg", Vision Prime
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg",MNC Entertainment
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg",MNC Entertainment
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/429LvqR/3.jpg" group-title="lokal",RCTI HD
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/rvGLwtR/3.jpg" group-title="lokal",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",MNC TV
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",MNC TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg",Sindonews TV
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg",Sindonews TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",SCTV (D*)
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",SCTV (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -81,7 +81,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",RTV
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 
@@ -118,17 +118,17 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 group-title="lokal" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",BTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/429LvqR/3.jpg",Berita Satu News World
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/rvGLwtR/3.jpg",Berita Satu News World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="lokal",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg",BeritaSatu
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?check tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="lokal"edby:iptvcat.com
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="lokal",CNBC Indonesia
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="lokal",CNBC Indonesia backup
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",BERITA SATU WORLD
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -139,7 +139,7 @@ https://melon-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/800px-TVKU-BChannel.png" group-title="lokal",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/FhbXzGS/1.jpg" group-title="lokal",AKTV (720p)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/C7fYwsj/IMG-20240717-WA0124.jpg" group-title="lokal",AKTV (720p)
 https://e.siar.us/live/aktv.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="lokal",Dhoho TV (720p)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
@@ -172,7 +172,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="lokal",Inspira Tv 
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg" group-title="lokal",Batam TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg" group-title="lokal",Batam TV
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jpm.png" group-title="lokal",JPMTV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
@@ -211,7 +211,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="lokal",Fajar TV
 #http://122.248.43.138:1935/ch27/myStream/playlist.m3u8//103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co.com/429LvqR/3.jpg" group-title="lokal",Badar TV
+#EXTINF:-1   tvg-logo="https://i.ibb.co.com/rvGLwtR/3.jpg" group-title="lokal",Badar TV
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="lokal",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
@@ -688,7 +688,7 @@ https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352
 https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://jpmtelevisi.com/img/sabanten.png",Sabanten - Banten
 https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
-#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://i.ibb.co.com/bsycM94/2.jpg",Batam TV
+#EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://i.ibb.co.com/SX04RDh/2.jpg",Batam TV
 https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
 #EXTINF:-1 group-title="CHANNEL | DAERAH" tvg-logo="https://jpmtelevisi.com/img/natuna.png",Natuna TV
 https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
